@@ -1,0 +1,16 @@
+# ignore cache files
+.vs/
+
+# ignore debug and object files
+bin
+obj/
+
+# others
+*.docx
+.DS_store
+.env
+*.jpg
+*.gif
+*.png
+node1/
+node2/

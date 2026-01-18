@@ -2,8 +2,10 @@
 .vs/
 
 # ignore debug and object files
-bin
+bin/
 obj/
+Debug/
+
 
 # others
 *.docx
